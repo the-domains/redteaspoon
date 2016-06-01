@@ -1,7 +1,7 @@
 name: redteaspoon
 favicon: null
-layout_spectrum: 0.07935993955470622
-typography_spectrum: 0.7329439192544669
+layout_spectrum: 1
+typography_spectrum: 0.32851
 cta:
   domain: null
   bucket: null
