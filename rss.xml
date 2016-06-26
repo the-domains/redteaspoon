@@ -4,7 +4,7 @@
         <description><![CDATA[redteaspoon]]></description>
         <link>https://thegrid.ai/redteaspoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 14:19:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/redteaspoon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/redteaspoon/to-be-a-wisp-of-cloud-and-float-with-abandon-through/index.html</link>
             <guid isPermaLink="false">965deca2-2e25-4998-8010-8b6ede03c7ad</guid>
             <pubDate>Sun, 26 Jun 2016 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c186f9cd-2e80-41b6-b7d5-4ba1139959f0.jpg">]]></description>
-            <link>https://thegrid.ai/redteaspoon/great-coffee-is-considered-an-art-form-when-one-considers/index.html</link>
-            <guid isPermaLink="false">00be4a29-d345-4689-ad30-e58131d01227</guid>
-            <pubDate>Wed, 01 Jun 2016 16:31:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
